@@ -1,4 +1,4 @@
-# Klasik NN ile belli bir değer aralığındaki bağımlı değişkenlerin kuadratik denkelemdeki çıktılarına göre model oluşturma
+# ANN ile belli bir değer aralığındaki bağımlı değişkenlerin kuadratik denklemdeki çıktılarına göre model oluşturma
 <img id="equationview" name="equationview" src="https://latex.codecogs.com/svg.latex?ax%5E%7B2%7D%20&amp;plus;%20bx%20&amp;plus;%20c%20%3D%200">
 
 a ∈ [1,4],
